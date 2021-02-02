@@ -1,0 +1,16 @@
+{
+  "name": "bootcamp_database",
+  "version": "1.0.0",
+  "description": "Learning Node",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

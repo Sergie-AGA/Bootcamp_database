@@ -12,8 +12,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server"
   },
-  "author": "",
+  "author": "Sergie, from Brad Travery's course",
   "license": "ISC"
 }
